@@ -21,7 +21,7 @@ class Developer:
     def write_code(self):
         return [0, 1, 0, 0, 1, 0]
     
-#---------------------------------------------
+#---------------------------------------------ll
 
 class TestMethods(unittest.TestCase):
     def setUp(self):
@@ -45,3 +45,5 @@ class TestMethods(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+
+abooba = 'booba'
